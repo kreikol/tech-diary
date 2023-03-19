@@ -1,0 +1,1 @@
+# tech-diary.nvim
